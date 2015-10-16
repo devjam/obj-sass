@@ -1,0 +1,31 @@
+{
+  "name": "obj-sass",
+  "description": "convert Object to scss/sass variable String.",
+  "version": "0.1.0",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devjam/obj-sass"
+  },
+  "keywords": [
+    "config",
+    "variable",
+    "js",
+    "coffee",
+    "json",
+    "sass",
+    "scss",
+    "css"
+  ],
+  "bugs": {
+    "url": "https://github.com/devjam/obj-sass/issues"
+  },
+  "homepage": "https://github.com/devjam/obj-sass",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+}
